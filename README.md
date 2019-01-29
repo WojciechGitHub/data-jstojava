@@ -1,7 +1,7 @@
 # Sending data from js to java
 
 ## Purpose
-Demo on how to send data from js (ajax, jquery) to java
+Demo on how to send data from js (ajax, jquery) to java using DTO objects
 
 ## How to use
 1. mvnw spring-boot:run
