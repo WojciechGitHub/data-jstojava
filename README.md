@@ -11,3 +11,4 @@ Demo on how to send data from js (ajax, jquery) to java using DTO objects
 * https://www.mkyong.com/spring-boot/spring-boot-ajax-example/
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery
 * https://api.jquery.com/jquery.post/
+* https://spring.io/guides/gs/testing-web/
